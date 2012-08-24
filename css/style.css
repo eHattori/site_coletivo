@@ -1,0 +1,84 @@
+body {	
+	background-color: #ebebeb;	
+}
+
+#site {
+	min-height: 700px;
+	height: auto;	
+	margin-top: 40px;
+}
+
+.menu {
+    background: url("../images/menu.png") no-repeat scroll 0 0 transparent;
+    height: 56px;
+    position: absolute;    
+}
+
+.menu ul {
+    margin: 20px 0 0 106px;
+    overflow: hidden;
+    padding: 0;
+}
+ul {
+    list-style: none outside none;
+}
+ul {
+    color: #4D5255;
+    margin: 8px 20px;
+    padding: 0;
+}
+
+.menu ul {
+    margin: 20px 0 0 106px;
+    overflow: hidden;
+    padding: 0;
+}
+ul {
+    list-style: none outside none;
+}
+ul {
+    color: #4D5255;
+    margin: 8px 20px;
+    padding: 0;
+}
+
+.menu ul li {
+    float: left;
+    margin: 0 23px 0 0;
+}
+
+.menu ul li a {
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 17px;
+    text-decoration: none;
+}
+
+.logo {    
+    top: 60px;
+}
+
+.slider {
+	margin-top: 20px;
+}
+
+#conteudo {
+	background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 3px 3px 3px 3px;
+    padding: 20px 20px 5px;
+    position: relative;
+}
+
+.grid_23_5 {
+	width: 940px !important;
+}
+
+#conteudo .texto {
+    width: 90%;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 17px; 
+    text-align: justify;
+    margin: 0 auto;
+}
+
